@@ -1,0 +1,29 @@
+{%- assign table_id = "csv-" | append: include.src | slugify -%}
+{%- assign hide_list = include.hide | default: "" | split: "," -%}
+{%- unless csv_libs_loaded -%}
+<link rel="stylesheet" href="{{ '/assets/vendor/datatables/jquery.dataTables.min.css' | relative_url }}">
+<script src="{{ '/assets/vendor/jquery.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/vendor/datatables/jquery.dataTables.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/vendor/papaparse.min.js' | relative_url }}"></script>
+{%- assign csv_libs_loaded = true -%}
+{%- endunless -%}
+<table id="{{ table_id }}" class="display" style="width:100%"></table>
+<script>
+Papa.parse("{{ include.src | relative_url }}", {
+  download: true,
+  header: true,
+  skipEmptyLines: true,
+  complete: function (results) {
+    var hide = {{ hide_list | jsonify }}.map(function (s) { return s.trim(); });
+    var fields = results.meta.fields.filter(function (f) {
+      return hide.indexOf(f) === -1;
+    });
+    $('#{{ table_id }}').DataTable({
+      data: results.data,
+      columns: fields.map(function (f) { return { title: f, data: f }; }),
+      pageLength: {{ include.page_length | default: 25 }},
+      order: []
+    });
+  }
+});
+</script>
