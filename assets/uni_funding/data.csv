@@ -1,192 +1,298 @@
-hochschul_name,hochschul_code,ausgaben,art_code,studierende,ausgabenprostudi,ausgabenprostudi_rounded
-"EUF Europa-Universität, Flensburg",3100,55697.901,13,5795,9611.372044866264,9611
-Musikhochschule Lübeck,2590,17976.798,53,440,40856.35909090909,40856
-Muthesius Kunsthochschule Kiel,5080,10620.703,53,616,17241.400974025975,17241
-H Flensburg,5010,36953.432,63,2991,12354.8752925443,12355
-FH Kiel,5020,62216.489,63,7773,8004.179724688022,8004
-Technische Hochschule Lübeck (FH),5030,51990.134,63,4767,10906.258443465493,10906
-"FH Westküste, Heide",5090,20368.682,63,1379,14770.617839013777,14771
-TU Hamburg,1040,173464.391,13,8473,20472.606042723946,20473
-H für Musik und Theater Hamburg,2500,28023.531,53,1401,20002.52034261242,20003
-H für Bildende Künste Hamburg,2810,13739.751,53,971,14150.104016477859,14150
-Berufliche Hochschule Hamburg (FH),3430,4643.572,63,524,8861.778625954199,8862
-H für Angewandte Wissenschaften Hamburg,5210,142443.874,63,16422,8673.966264766776,8674
-"Evang. H für Soziale Arbeit und Diakonie, Hamburg (FH)",5230,3824.666,66,744,5140.680107526881,5141
-"Akademie der Polizei, Hamburg (Verw-FH)",5240,5247.604,73,731,7178.664842681259,7179
-Norddeutsche Akademie für Finanzen und Steuerrecht Hamburg,7990,3360.495,73,380,8843.407894736842,8843
-TU Braunschweig,1430,395095.814,13,15632,25274.808981576254,25275
-TU Clausthal,1440,115627.171,13,2759,41909.08698803915,41909
-U Hannover,1450,501264.416,13,26074,19224.684206489223,19225
-Tierärztliche H Hannover,1740,121512.185,13,2331,52128.7794937795,52129
-"H für Musik,Theater und Medien Hannover",2530,29405.614,53,1365,21542.574358974358,21543
-H für Bildende Künste Braunschweig,2830,18583.119,53,902,20602.127494456763,20602
-Hochschule Hannover (FH),5330,88887.11,63,8441,10530.400426489752,10530
-U Bremen,1050,422612.648,13,17793,23751.62412184567,23752
-H für Künste Bremen,2610,20905.595,53,1004,20822.30577689243,20822
-H Bremerhaven,5660,27127.611,63,2927,9268.059788179024,9268
-H Bremen,5680,75170.381,63,8524,8818.674448615673,8819
-H für öffentliche Verwaltung Bremen,5670,3638.073,73,666,5462.572072072072,5463
-U Dortmund,1130,448492.407,13,29454,15226.876044000815,15227
-Deutsche Sporthochschule Köln,1150,86741.569,13,6117,14180.410168383194,14180
-Theol. Fakultät Paderborn (rk),2030,3130.672,46,61,51322.49180327869,51322
-Kölner H für Katholische Theologie (Kirchl.- Theol. H),2060,2579.937,46,105,24570.82857142857,24571
-Phil.-Theol. H Münster (rk),2080,663.089,46,7,94727.0,94727
-Kunstakademie Düsseldorf,2860,17385.583,53,547,31783.515539305303,31784
-Robert-Schumann-H Düsseldorf,2870,22874.632,53,812,28170.72906403941,28171
-KH für Medien Köln,2880,22549.94,53,415,54337.20481927711,54337
-Kunstakademie Münster,2890,9441.145,53,378,24976.574074074073,24977
-"Hochschule für Gesundheit, Bochum",1770,33627.748,63,2053,16379.809059912324,16380
-FH Dortmund,5770,101592.686,63,13315,7629.942621104018,7630
-H Düsseldorf,5780,106396.002,63,10820,9833.271903881701,9833
-"Evang. FH Rheinland-Westfalen-Lippe, Bochum",6000,12870.849,66,2665,4829.586866791745,4830
-"FH für Rechtspflege NW, Bad Münstereifel",6180,15901.476,73,991,16045.889001009082,16046
-Hochschule für Finanzen Nordrhein-Westfalen in Nordkirchen (Verw-FH),6190,49334.69,73,2561,19263.83834439672,19264
-"H Bund, FB Allgemeine innere Verwaltung, Brühl",6206,50790.347,74,1213,41871.67930750206,41872
-"H Bund, FB Finanzen, Münster",6208,27234.829,74,2336,11658.745291095891,11659
-TU Darmstadt,1530,634662.2,13,24310,26107.04236939531,26107
-Evangelische Hochschule Tabor in Marburg (Priv.),1550,1477.866,41,143,10334.727272727272,10335
-"Theologische H Ewersbach in Dietzhölztal (ev), Priv. H",2220,1520.475,41,60,25341.25,25341
-Theol. Fakultät Fulda (rk),2000,1590.6,46,10,159060.0,159060
-Phil.-Theol. H Frankfurt a.M. (rk),2020,4540.476,46,226,20090.601769911504,20091
-Luth.-Theol. H Oberursel (ev),2320,470.63,46,14,33616.42857142857,33616
-H für Musik und Darstellende Kunst Frankfurt a.M.,2620,27302.121,53,940,29044.809574468087,29045
-H für Bildende Künste Frankfurt a.M. (Städelschule),2900,8433.171,53,150,56221.14,56221
-H für Gestaltung Offenbach,2920,17388.473,53,806,21573.787841191068,21574
-Hochschule Geisenheim University (FH),2200,68342.524,63,1428,47858.91036414566,47859
-"Frankfurt University of Applied Sciences, Frankfurt a.M.",6220,121695.658,63,15255,7977.427597509013,7977
-Hochschule Fulda (FH),6290,84902.631,63,8949,9487.387529332886,9487
-FH für Archivwesen Marburg,6320,1759.807,73,85,20703.61176470588,20704
-Hessische H für Finanzen und Rechtspflege Rotenburg (VerwFH),6330,24317.292,73,1550,15688.575483870967,15689
-"H Bund, FB Wetterdienst in Langen",6203,917.936,74,45,20398.577777777777,20399
-U Trier,1200,119017.647,13,10357,11491.517524379648,11492
-Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau ,1210,304635.528,13,10035,30357.302242152466,30357
-Deutsche Universität für Verwaltungswissenschaften Speyer,1230,11040.005,13,260,42461.557692307695,42462
-Theol. Fakultät Trier,2040,3418.859,46,149,22945.362416107382,22945
-Vinzenz Pallotti University Vallendar (Kirchl.-Theol. H),2050,6112.844,46,444,13767.666666666666,13768
-Technische Hochschule Bingen,6510,27065.194,63,2160,12530.182407407407,12530
-Hochschule für Wirtschaft und Gesellschaft Ludwigshafen (FH),6650,39379.345,63,4128,9539.570009689922,9540
-H Worms,6660,25550.269,63,3111,8212.879781420765,8213
-H Mainz,6670,55089.373,63,5407,10188.528389125207,10189
-Kath. FH Mainz,6600,11939.149,66,1396,8552.398997134671,8552
-"Edenkoben, Hochschule für Finanzen Rheinland-Pfalz ",6640,6158.246,73,629,9790.534181240064,9791
-"Hochschule der Polizei Rheinland-Pfalz (VerwFH), Büchenbeuren",8180,62887.669,73,1300,48375.13,48375
-Hochschule der Deutschen Bundesbank Hachenburg (VerwFH),6620,9779.267,74,353,27703.3059490085,27703
-U Heidelberg - Medizinische Fakultät Mannheim,1252,133930.174,12,2528,52978.708069620254,52979
-U Konstanz,1260,263122.539,13,10063,26147.524495677233,26148
-Karlsruher Institut für Technologie (KIT) - Bereich Hochschule,1580,549394.972,13,22007,24964.55545962648,24965
-U Stuttgart,1590,689260.205,13,20620,33426.78006789525,33427
-U Hohenheim,1800,200095.267,13,8427,23744.543372493175,23745
-U Mannheim,1810,159544.98,13,11486,13890.38655754832,13890
-H für jüdische Studien Heidelberg,2300,3986.208,16,114,34966.73684210526,34967
-PH Freiburg i.Br.,3660,52195.561,33,5125,10184.499707317073,10184
-PH Heidelberg,3670,36335.791,33,5254,6915.833840883137,6916
-PH Karlsruhe,3680,34393.126,33,3371,10202.647878967666,10203
-PH Schwäbisch-Gmünd,3700,30317.667,33,2534,11964.351617995264,11964
-PH Weingarten,3780,24974.211,33,3190,7828.906269592477,7829
-"Freiburg i.Br., Staatliche H für Musik ",2650,17012.076,53,631,26960.500792393028,26961
-"Staatl. H für Musik und Darstellende Kunst, Mannheim",2660,14404.824,53,598,24088.334448160535,24088
-"Staatl. H für Musik, Karlsruhe",2670,12873.261,53,545,23620.662385321102,23621
-"Staatl. H für Musik und Darstellende Kunst, Stuttgart",2690,23721.107,53,804,29503.864427860695,29504
-"Staatl. H für Musik, Trossingen",2700,11835.198,53,434,27270.04147465438,27270
-"Staatl. H für Gestaltung, Karlsruhe",2940,8695.459,53,349,24915.3553008596,24915
-"Staatl. Akademie der Bildenden Künste, Karlsruhe",2950,7155.913,53,360,19877.536111111112,19878
-"Staatl. Akademie der Bildenden Künste, Stuttgart",2960,17910.619,53,784,22845.17729591837,22845
-"Aalen, Hochschule für Technik und Wirtschaft (FH) ",6710,74293.204,63,4121,18027.95535064305,18028
-FH Biberach a. d. Riss,6720,30682.767,63,2233,13740.603224361845,13741
-H für Technik und Wirtschaft Karlsruhe (FH),6760,76309.283,63,6946,10986.075871004894,10986
-"H für Technik, Wirtschaft und Gestaltung Konstanz",6770,46747.085,63,4278,10927.322346891071,10927
-H für Technik und Gestaltung Mannheim (FH),6780,59467.78,63,5073,11722.40883106643,11722
-H Offenburg,6800,48213.884,63,3656,13187.605032822757,13188
-"H für Gestaltung, Technik und Wirtschaft Pforzheim",6810,50857.562,63,5574,9124.069250089702,9124
-H Ravensburg-Weingarten,6820,29785.52,63,3497,8517.449242207607,8517
-Hochschule / Reutlingen University Reutlingen,6830,79978.634,63,5017,15941.525612916086,15942
-H für Technik Stuttgart,6850,43055.341,63,3984,10807.063504016065,10807
-H der Medien Stuttgart,6860,46898.74,63,5393,8696.224735768588,8696
-Technische Hochschule (FH) Ulm,6870,37043.923,63,2914,12712.39636238847,12712
-FH für Gestaltung Schwäbisch Gmünd,7050,8298.594,63,660,12573.627272727272,12574
-H für Forstwirtschaft Rottenburg (FH),7110,11221.89,63,898,12496.536748329621,12497
-Evang. Hochschule Freiburg (FH),6900,5772.765,66,900,6414.183333333333,6414
-Kath. FH Freiburg i.Br.,6910,14283.117,66,1738,8218.13406214039,8218
-Evangelische Hochschule Ludwigsburg (FH),7190,12314.964,66,1167,10552.668380462725,10553
-Theologisches Seminar Reutlingen (evang. FH),7680,11717.376,66,99,118357.33333333333,118357
-H für öffentliche Verwaltung Kehl,7060,13638.449,73,1287,10597.08547008547,10597
-Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg,7070,20218.703,73,2593,7797.417277284998,7797
-H für Rechtspflege Schwetzingen,7120,3565.613,73,624,5714.1233974358975,5714
-H für Polizei Villingen-Schwenningen,7140,41436.004,73,2070,20017.393236714976,20017
-TU München (ohne Klinikum),1633,1334092.379,13,23067,57835.5390384532,57836
-H für Politik München,1710,7791.345,13,585,13318.538461538461,13319
-Technische Universität Nürnberg,3370,31149.194,13,62,502406.3548387097,502406
-H für Philosophie München (rk),2170,4278.755,46,379,11289.591029023746,11290
-H für Musik Würzburg,2710,15821.371,53,576,27467.65798611111,27468
-"H für Musik und Theater, München",2720,32651.536,53,1208,27029.417218543047,27029
-"H für Fernsehen und Film, München",2730,13680.007,53,398,34371.87688442211,34372
-"Akademie der Bildenden Künste, München",2980,12492.335,53,716,17447.395251396647,17447
-"Akademie der Bildenden Künste, Nürnberg",2990,7428.504,53,302,24597.69536423841,24598
-"H für evang. Kirchenmusik, Bayreuth",3020,1795.826,56,24,74826.08333333333,74826
-"H für Kath. Kirchenmusik und Musikpädagogik, Regensburg",3040,4088.404,56,132,30972.757575757576,30973
-Technische Hochschule Augsburg (FH),7210,65747.543,63,7511,8753.50059912129,8754
-Hochschule für angewandte Wissenschaften Coburg (FH),7220,52962.142,63,4648,11394.60886402754,11395
-Hochschule für angewandte Wissenschaften München (FH),7240,151950.884,63,18535,8198.051470191529,8198
-Technische Hochschule Nürnberg Georg Simon Ohm (FH),7250,131217.053,63,12547,10458.04200207221,10458
-Ostbayerische Technische Hochschule Regensburg (FH),7260,100020.294,63,10999,9093.58068915356,9094
-TH Rosenheim (FH),7300,76357.284,63,5787,13194.623120787974,13195
-Hochschule für angewandte Wissenschaften Kempten (FH),7440,66050.293,63,4643,14225.779237561923,14226
-Hochschule für angewandte Wissenschaften Landshut (FH),7450,47278.246,63,4916,9617.218470301057,9617
-TH Ingolstadt,7540,93253.707,63,7849,11880.966619951587,11881
-Hochschule für angewandte Wissenschaften Ansbach (FH),7560,33360.184,63,3485,9572.506169296987,9573
-Hochschule für angewandte Wissenschaften Neu-Ulm (FH),7570,32631.22,63,4133,7895.286716670699,7895
-TH Aschaffenburg (FH),7590,44781.814,63,3778,11853.312334568554,11853
-Evang. Hochschule Nürnberg (FH),7370,10003.108,66,1239,8073.533494753834,8074
-"Hochschule für Musik, Saarbrücken",2760,9240.334,53,487,18973.991786447637,18974
-H der Bildenden Künste Saarbrücken,2770,6404.618,53,431,14859.902552204176,14860
-H für Technik und Wirtschaft des Saarlandes Saarbrücken,7610,57587.797,63,6028,9553.383709356338,9553
-FH für Verwaltung Saarbrücken,7630,2410.226,73,797,3024.1229611041404,3024
-TU Berlin,1690,623523.342,13,34550,18046.98529667149,18047
-Weißensee Kunsthochschule Berlin,2510,14296.92,53,834,17142.589928057554,17143
-"H für Musik, Berlin",2520,17051.644,53,554,30779.140794223826,30779
-"H für Schauspielkunst, Berlin",2540,11340.578,53,197,57566.38578680203,57566
-"U der Künste, Berlin",2790,96069.718,53,4422,21725.399819086386,21725
-FH für Technik und Wirtschaft Berlin,7690,107915.872,63,14956,7215.557100829099,7216
-Berliner Hochschule für Technik (FH),7710,95578.357,63,12344,7742.8999513933895,7743
-Alice-Salomon-Hochschule (FH) Berlin,7730,30882.871,63,4206,7342.575130765573,7343
-Katholische Hochschule für Sozialwesen Berlin (FH),7700,13483.903,66,1263,10676.091053048298,10676
-Evangelische Hochschule Berlin (FH),7750,14864.868,66,1624,9153.243842364533,9153
-"H Bund, FB Sozialversicherung in Berlin",6202,17374.916,74,920,18885.778260869567,18886
-"H Bund, FB Akademie Auswärtige Angelegenheiten in Berlin",6205,3211.454,74,203,15819.970443349754,15820
-Potsdam Filmuniversität Babelsberg,2550,31052.767,13,956,32481.973849372385,32482
-U Potsdam,3500,295070.626,13,19696,14981.246242891957,14981
-Technische Hochschule Brandenburg,7910,33465.287,63,3211,10422.076300218,10422
-Hochschule für nachhaltige Entwicklung Eberswalde (FH),7920,39580.472,63,2280,17359.856140350876,17360
-Technische Hochschule Wildau (FH),7940,48342.677,63,3314,14587.41007845504,14587
-FH Potsdam,7950,40934.956,63,3610,11339.32299168975,11339
-Theologische Hochschule Elstal (FH),6430,1265.88,66,38,33312.63157894737,33313
-FH für Finanzen Brandenburg (VerwFH) Königs Wusterhausen,7850,8157.015,73,843,9676.174377224199,9676
-FH der Polizei des Landes Brandenburg (VerwFH) in Oranienburg,7890,63670.105,73,694,91743.66714697407,91744
-"H für Musik und Theater, Rostock",3030,16833.414,53,579,29073.253886010363,29073
-H Neubrandenburg,7780,29057.444,63,1832,15861.050218340612,15861
-H Stralsund,7790,30766.535,63,1770,17382.22316384181,17382
-H Wismar,7840,53111.678,63,7262,7313.643348939686,7314
-Verwaltungs-FH Güstrow,7900,19846.395,73,551,36018.86569872958,36019
-Palucca Hochschule für Tanz Dresden,2490,6330.481,53,170,37238.123529411765,37238
-H für Bildende Künste Dresden,2630,14336.597,53,594,24135.685185185186,24136
-H für Graphik und Buchkunst Leipzig,2640,9941.145,53,542,18341.59594095941,18342
-H für Musik und Theater Leipzig,2740,23800.126,53,1166,20411.771869639793,20412
-H für Musik Dresden,2800,16118.378,53,705,22862.947517730496,22863
-"H für Kirchenmusik der Evang.-Luth. Landeskirche Sachsens, Dresden",2930,1451.825,56,22,65992.04545454546,65992
-H für Technik und Wirtschaft Dresden,5120,73423.601,63,4640,15824.051939655172,15824
-"H für Technik, Wirtschaft und Kultur Leipzig",5130,66766.55,63,6431,10381.985694293267,10382
-H Mittweida (University of Applied Sciences),5140,59778.556,63,6115,9775.724611610793,9776
-Evangelische Hochschule Dresden (Kirchl. FH),5110,8355.854,66,771,10837.683527885862,10838
-"H der Sächsischen Polizei, Rothenburg/OL. (FH)",5190,69741.772,73,476,146516.32773109243,146516
-H Meißen und Fortbildungszentrum (VerwFH),6380,19007.219,73,1156,16442.23096885813,16442
-"Theol. H (Adventisten), Friedensau",2350,6977.226,46,194,35965.0824742268,35965
-"Burg Giebichenstein Kunsthochschule, Halle",2600,25201.772,53,1249,20177.559647718175,20178
-Evang. H für Kirchenmusik Halle,3000,1496.523,56,52,28779.28846153846,28779
-H Merseburg (FH),8000,37317.874,63,3054,12219.343156516044,12219
-"FH Polizei Sachsen-Anhalt, Aschersleben",8060,17319.289,73,615,28161.445528455286,28161
-H für Musik Weimar,2850,21568.616,53,755,28567.70331125828,28568
-FH Erfurt,7810,46867.857,63,4000,11716.96425,11717
-Ernst-Abbe-Hochschule Jena (FH),7820,52742.045,63,4052,13016.29935834156,13016
-Hochschule Schmalkalden,7830,26698.544,63,2933,9102.810773951585,9103
-Hochschule Nordhausen ,7880,25210.564,63,1753,14381.382772390189,14381
-Thüringer FH für öffentliche Verwaltung Gotha,7860,7897.181,73,659,11983.582701062216,11984
+hochschul_name,hochschul_code,art_code,ausgaben,changed_funding,studierende,changed_studizahl,ausgabenprostudi,ausgabenprostudi_r,art_name,type
+U Kiel,1000,13,402349.177,True,24936,False,16135.273379852422,16135,Öffentliche Universität,OU
+U Lübeck,1010,13,111545.429,True,6113,False,18247.24832324554,18247,Öffentliche Universität,OU
+"EUF Europa-Universität, Flensburg",3100,13,55697.901,False,5795,False,9611.372044866264,9611,Öffentliche Universität,OU
+Musikhochschule Lübeck,2590,53,17976.798,False,440,False,40856.35909090909,40856,Öffentliche Kunsthochschule,OKH
+Muthesius Kunsthochschule Kiel,5080,53,10620.703,False,616,False,17241.400974025975,17241,Öffentliche Kunsthochschule,OKH
+H Flensburg,5010,63,36953.432,False,2991,False,12354.8752925443,12355,Öffentliche Hochschule,OH
+FH Kiel,5020,63,62216.489,False,7773,False,8004.179724688022,8004,Öffentliche Hochschule,OH
+Technische Hochschule Lübeck (FH),5030,63,51990.134,False,4767,False,10906.258443465493,10906,Öffentliche Hochschule,OH
+"FH Westküste, Heide",5090,63,20368.682,False,1379,False,14770.617839013777,14771,Öffentliche Hochschule,OH
+FH für Verwaltung und Dienstleistung Altenholz,5060,73,17138.85,False,1388,True,12347.874639769452,12348,Verwaltungshochschule Länder,VHL
+Hafencity Universität Hamburg,0690,13,44576.99,False,2461,False,18113.364485981307,18113,Öffentliche Universität,OU
+U Hamburg (ohne Klinikum),1020,13,607827.641,True,42193,False,14405.88820420449,14406,Öffentliche Universität,OU
+TU Hamburg,1040,13,173464.391,False,8473,False,20472.606042723946,20473,Öffentliche Universität,OU
+Helmut-Schmidt-Universität Hamburg,0800,14,216398.888,False,2496,False,86698.27243589744,86698,Universität der Bundeswehr,UB
+H für Musik und Theater Hamburg,2500,53,28023.531,False,1401,False,20002.52034261242,20003,Öffentliche Kunsthochschule,OKH
+H für Bildende Künste Hamburg,2810,53,13739.751,False,971,False,14150.104016477859,14150,Öffentliche Kunsthochschule,OKH
+Berufliche Hochschule Hamburg (FH),3430,63,4643.572,False,524,False,8861.778625954199,8862,Öffentliche Hochschule,OH
+H für Angewandte Wissenschaften Hamburg,5210,63,142443.874,False,16422,False,8673.966264766776,8674,Öffentliche Hochschule,OH
+"Evang. H für Soziale Arbeit und Diakonie, Hamburg (FH)",5230,66,3824.666,False,744,False,5140.680107526881,5141,Kirchliche Fachhochschule,KFH
+"Akademie der Polizei, Hamburg (Verw-FH)",5240,73,5247.604,False,731,False,7178.664842681259,7179,Verwaltungshochschule Länder,VHL
+Norddeutsche Akademie für Finanzen und Steuerrecht Hamburg,7990,73,3360.495,False,380,False,8843.407894736842,8843,Verwaltungshochschule Länder,VHL
+U Oldenburg,0520,13,281163.739,False,14670,False,19165.89904567144,19166,Öffentliche Universität,OU
+U Osnabrück,0530,13,178710.992,False,13341,False,13395.621917397497,13396,Öffentliche Universität,OU
+Universität Vechta,0960,13,54334.948,False,3500,False,15524.270857142857,15524,Öffentliche Universität,OU
+U Hildesheim,0980,13,82465.268,False,7784,False,10594.201952723535,10594,Öffentliche Universität,OU
+U Lüneburg,0990,13,109974.962,False,9127,False,12049.409663635368,12049,Öffentliche Universität,OU
+U Göttingen (ohne Klinikum),1030,13,467743.508,True,26824,False,17437.500298240382,17438,Öffentliche Universität,OU
+TU Braunschweig,1430,13,395095.814,False,15632,False,25274.808981576254,25275,Öffentliche Universität,OU
+TU Clausthal,1440,13,115627.171,False,2759,False,41909.08698803915,41909,Öffentliche Universität,OU
+U Hannover,1450,13,501264.416,False,26074,False,19224.684206489223,19225,Öffentliche Universität,OU
+Tierärztliche H Hannover,1740,13,121512.185,False,2331,False,52128.7794937795,52129,Öffentliche Universität,OU
+"H für Musik,Theater und Medien Hannover",2530,53,29405.614,False,1365,False,21542.574358974358,21543,Öffentliche Kunsthochschule,OKH
+H für Bildende Künste Braunschweig,2830,53,18583.119,False,902,False,20602.127494456763,20602,Öffentliche Kunsthochschule,OKH
+Hochschule Wilhelmshaven/Oldenburg/Elsfleth (FH),4980,63,72299.352,False,3318,True,21790.03978300181,21790,Öffentliche Hochschule,OH
+Hochschule Emden/Leer (FH),4990,63,51801.454,False,3380,True,15325.873964497041,15326,Öffentliche Hochschule,OH
+Hochschule Hannover (FH),5330,63,88887.11,False,8441,False,10530.400426489752,10530,Öffentliche Hochschule,OH
+Hochschule Hildesheim/Holzminden/Göttingen (FH),5380,63,81015.896,False,2123,True,38161.043805935,38161,Öffentliche Hochschule,OH
+Hochschule Osnabrück (FH),5500,63,144016.131,False,10845,True,13279.495712309821,13279,Öffentliche Hochschule,OH
+"Norddeutsche Hochschule für Rechtspflege, Hildesheim",0740,73,2263.234,False,388,False,5833.077319587629,5833,Verwaltungshochschule Länder,VHL
+"Hannover, Kommunale H für Verwaltung in Niedersachsen (Priv. Verw-FH)",0750,73,5855.972,False,1493,False,3922.2853315472203,3922,Verwaltungshochschule Länder,VHL
+U Bremen,1050,13,422612.648,False,17793,False,23751.62412184567,23752,Öffentliche Universität,OU
+H für Künste Bremen,2610,53,20905.595,False,1004,False,20822.30577689243,20822,Öffentliche Kunsthochschule,OKH
+H Bremerhaven,5660,63,27127.611,False,2927,False,9268.059788179024,9268,Öffentliche Hochschule,OH
+H Bremen,5680,63,75170.381,False,8524,False,8818.674448615673,8819,Öffentliche Hochschule,OH
+H für öffentliche Verwaltung Bremen,5670,73,3638.073,False,666,False,5462.572072072072,5463,Verwaltungshochschule Länder,VHL
+U Duisburg-Essen (ohne Klinikum),0080,13,626508.204,True,24545,False,25524.880994092484,25525,Öffentliche Universität,OU
+U Paderborn,0120,13,295177.842,True,17064,True,17298.27953586498,17298,Öffentliche Universität,OU
+U Siegen,0130,13,240435.65,False,14439,False,16651.821455779485,16652,Öffentliche Universität,OU
+U Wuppertal,0140,13,264857.864,False,20724,False,12780.248214630381,12780,Öffentliche Universität,OU
+Fernuniversität Hagen,0150,13,143492.999,False,63410,False,2262.939583661883,2263,Öffentliche Universität,OU
+"Deutsche Hochschule der Polizei, Münster ",0910,13,13576.964,False,476,False,28523.03361344538,28523,Öffentliche Universität,OU
+U Bochum (ohne Klinikum),1080,13,705312.518,True,37759,False,18679.321962975715,18679,Öffentliche Universität,OU
+U Bonn (ohne Klinikum),1090,13,620953.385,True,34744,False,17872.248014045592,17872,Öffentliche Universität,OU
+U Düsseldorf (ohne Klinikum),1100,13,324307.58,True,28641,False,11323.193324255439,11323,Öffentliche Universität,OU
+U Köln (ohne Klinikum),1110,13,662326.708,True,47238,False,14021.057369067277,14021,Öffentliche Universität,OU
+U Münster (ohne Klinikum),1120,13,608898.455,True,41962,False,14510.711000428959,14511,Öffentliche Universität,OU
+U Dortmund,1130,13,448492.407,False,29454,False,15226.876044000815,15227,Öffentliche Universität,OU
+U Bielefeld (ohne Klinikum),1140,13,359753.094,True,23433,False,15352.4130072974,15352,Öffentliche Universität,OU
+Deutsche Sporthochschule Köln,1150,13,86741.569,False,6117,False,14180.410168383194,14180,Öffentliche Universität,OU
+TH Aachen (ohne Klinikum),1480,13,1089118.714,True,45113,False,24142.014807261767,24142,Öffentliche Universität,OU
+Hochschule für Kirchenmusik Herford-Witten (Kirchl. Theol. H),0710,46,1970.398,False,39,False,50523.02564102564,50523,Kirchliche Theologische Hochschule,KTH
+Theol. Fakultät Paderborn (rk),2030,46,3130.672,False,61,False,51322.49180327869,51322,Kirchliche Theologische Hochschule,KTH
+Kölner H für Katholische Theologie (Kirchl.- Theol. H),2060,46,2579.937,False,105,False,24570.82857142857,24571,Kirchliche Theologische Hochschule,KTH
+Phil.-Theol. H Münster (rk),2080,46,663.089,False,7,False,94727.0,94727,Kirchliche Theologische Hochschule,KTH
+H für Musik Detmold,2560,53,19768.475,False,635,True,31131.456692913387,31131,Öffentliche Kunsthochschule,OKH
+Folkwang U der Künste Essen (Kunst- H),2570,53,48075.53,False,1500,True,32050.353333333333,32050,Öffentliche Kunsthochschule,OKH
+H für Musik Köln,2580,53,45469.671,False,1112,True,40889.99190647482,40890,Öffentliche Kunsthochschule,OKH
+Kunstakademie Düsseldorf,2860,53,17385.583,False,547,False,31783.515539305303,31784,Öffentliche Kunsthochschule,OKH
+Robert-Schumann-H Düsseldorf,2870,53,22874.632,False,812,False,28170.72906403941,28171,Öffentliche Kunsthochschule,OKH
+KH für Medien Köln,2880,53,22549.94,False,415,False,54337.20481927711,54337,Öffentliche Kunsthochschule,OKH
+Kunstakademie Münster,2890,53,9441.145,False,378,False,24976.574074074073,24977,Öffentliche Kunsthochschule,OKH
+"Hochschule für Gesundheit, Bochum",1770,63,33627.748,False,2053,False,16379.809059912324,16380,Öffentliche Hochschule,OH
+H Ruhr-West (FH),3050,63,72937.644,False,1247,True,58490.49238171612,58490,Öffentliche Hochschule,OH
+H Rhein-Waal,3060,63,78438.548,False,3741,True,20967.26757551457,20967,Öffentliche Hochschule,OH
+H Hamm-Lippstadt,3070,63,69001.003,False,2390,True,28870.712552301255,28871,Öffentliche Hochschule,OH
+FH Südwestfalen,5250,63,105533.971,False,2172,True,48588.38443830571,48588,Öffentliche Hochschule,OH
+"Westfälische H (FH) , Gelsenkirchen",5700,63,80760.176,False,3955,True,20419.766371681417,20420,Öffentliche Hochschule,OH
+FH Aachen,5710,63,126012.603,False,10095,True,12482.674888558693,12483,Öffentliche Hochschule,OH
+FH Bielefeld,5730,63,113159.339,False,7964,True,14208.85723254646,14209,Öffentliche Hochschule,OH
+FH Dortmund,5770,63,101592.686,False,13315,False,7629.942621104018,7630,Öffentliche Hochschule,OH
+H Düsseldorf,5780,63,106396.002,False,10820,False,9833.271903881701,9833,Öffentliche Hochschule,OH
+Technische Hochschule Köln,5830,63,217921.058,False,16502,True,13205.736153193553,13206,Öffentliche Hochschule,OH
+H Niederrhein,5840,63,116757.681,False,4959,True,23544.60193587417,23545,Öffentliche Hochschule,OH
+TH Ostwestfalen-Lippe in Lemgo/Detmold/Höxter,5860,63,81648.999,False,2782,True,29349.02911574407,29349,Öffentliche Hochschule,OH
+FH Münster,5890,63,140214.234,False,10602,True,13225.262591963781,13225,Öffentliche Hochschule,OH
+H Bonn-Rhein-Sieg,8110,63,91267.169,False,5983,True,15254.415677753635,15254,Öffentliche Hochschule,OH
+FH der Diakonie Bielefeld-Bethel,0040,66,3392.393,False,702,False,4832.4686609686605,4832,Kirchliche Fachhochschule,KFH
+"Evang. FH Rheinland-Westfalen-Lippe, Bochum",6000,66,12870.849,False,2665,False,4829.586866791745,4830,Kirchliche Fachhochschule,KFH
+Kath. Hochschule Nordrhein-Westfalen,6030,66,36256.632,False,2061,True,17591.76710334789,17592,Kirchliche Fachhochschule,KFH
+FH für öffentliche Verwaltung NW,6070,73,90003.438,False,1440,True,62502.3875,62502,Verwaltungshochschule Länder,VHL
+"FH für Rechtspflege NW, Bad Münstereifel",6180,73,15901.476,False,991,False,16045.889001009082,16046,Verwaltungshochschule Länder,VHL
+Hochschule für Finanzen Nordrhein-Westfalen in Nordkirchen (Verw-FH),6190,73,49334.69,False,2561,False,19263.83834439672,19264,Verwaltungshochschule Länder,VHL
+"H Bund, FB Allgemeine innere Verwaltung, Brühl",6206,74,50790.347,False,1213,False,41871.67930750206,41872,Verwaltungshochschule Bund,VHB
+"H Bund, FB Finanzen, Münster",6208,74,27234.829,False,2336,False,11658.745291095891,11659,Verwaltungshochschule Bund,VHB
+U Kassel,0010,13,316937.567,False,19414,True,16325.206912537344,16325,Öffentliche Universität,OU
+U Frankfurt a.M. (ohne Klinikum),1160,13,627847.712,True,40954,False,15330.558968598916,15331,Öffentliche Universität,OU
+U Gießen,1170,13,516895.462,True,24698,False,20928.6364078063,20929,Öffentliche Universität,OU
+U Marburg,1180,13,454172.272,True,20532,False,22120.215858172607,22120,Öffentliche Universität,OU
+TU Darmstadt,1530,13,634662.2,False,24310,False,26107.04236939531,26107,Öffentliche Universität,OU
+Theol. Fakultät Fulda (rk),2000,46,1590.6,False,10,False,159060.0,159060,Kirchliche Theologische Hochschule,KTH
+Phil.-Theol. H Frankfurt a.M. (rk),2020,46,4540.476,False,226,False,20090.601769911504,20091,Kirchliche Theologische Hochschule,KTH
+Luth.-Theol. H Oberursel (ev),2320,46,470.63,False,14,False,33616.42857142857,33616,Kirchliche Theologische Hochschule,KTH
+H für Musik und Darstellende Kunst Frankfurt a.M.,2620,53,27302.121,False,940,False,29044.809574468087,29045,Öffentliche Kunsthochschule,OKH
+H für Bildende Künste Frankfurt a.M. (Städelschule),2900,53,8433.171,False,150,False,56221.14,56221,Öffentliche Kunsthochschule,OKH
+H für Gestaltung Offenbach,2920,53,17388.473,False,806,False,21573.787841191068,21574,Öffentliche Kunsthochschule,OKH
+Hochschule Geisenheim University (FH),2200,63,68342.524,False,1428,False,47858.91036414566,47859,Öffentliche Hochschule,OH
+"Frankfurt University of Applied Sciences, Frankfurt a.M.",6220,63,121695.658,False,15255,False,7977.427597509013,7977,Öffentliche Hochschule,OH
+"Technische Hochschule Mittelhessen, FH (THM)",6230,63,136905.642,False,9460,True,14472.055179704017,14472,Öffentliche Hochschule,OH
+Hochschule Fulda (FH),6290,63,84902.631,False,8949,False,9487.387529332886,9487,Öffentliche Hochschule,OH
+FH für Archivwesen Marburg,6320,73,1759.807,False,85,False,20703.61176470588,20704,Verwaltungshochschule Länder,VHL
+Hessische H für Finanzen und Rechtspflege Rotenburg (VerwFH),6330,73,24317.292,False,1550,False,15688.575483870967,15689,Verwaltungshochschule Länder,VHL
+"H Bund, FB Wetterdienst in Langen",6203,74,917.936,False,45,False,20398.577777777777,20399,Verwaltungshochschule Bund,VHB
+U Trier,1200,13,119017.647,False,10357,False,11491.517524379648,11492,Öffentliche Universität,OU
+Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau ,1210,13,304635.528,False,10035,False,30357.302242152466,30357,Öffentliche Universität,OU
+"Johannes Gutenberg-Universität, Mainz",1220,13,481110.508,False,28628,True,16805.592706441246,16806,Öffentliche Universität,OU
+Deutsche Universität für Verwaltungswissenschaften Speyer,1230,13,11040.005,False,260,False,42461.557692307695,42462,Öffentliche Universität,OU
+Universität Koblenz,1290,13,59353.248,False,9582,True,6194.244207889793,6194,Öffentliche Universität,OU
+Theol. Fakultät Trier,2040,46,3418.859,False,149,False,22945.362416107382,22945,Kirchliche Theologische Hochschule,KTH
+Vinzenz Pallotti University Vallendar (Kirchl.-Theol. H),2050,46,6112.844,False,444,False,13767.666666666666,13768,Kirchliche Theologische Hochschule,KTH
+Technische Hochschule Bingen,6510,63,27065.194,False,2160,False,12530.182407407407,12530,Öffentliche Hochschule,OH
+H Kaiserslautern,6520,63,65322.615,False,2359,True,27690.80754557016,27691,Öffentliche Hochschule,OH
+H Koblenz,6530,63,64150.628,False,6084,True,10544.153188691651,10544,Öffentliche Hochschule,OH
+H Trier,6580,63,67498.43,False,4740,True,14240.175105485232,14240,Öffentliche Hochschule,OH
+Hochschule für Wirtschaft und Gesellschaft Ludwigshafen (FH),6650,63,39379.345,False,4128,False,9539.570009689922,9540,Öffentliche Hochschule,OH
+H Worms,6660,63,25550.269,False,3111,False,8212.879781420765,8213,Öffentliche Hochschule,OH
+H Mainz,6670,63,55089.373,False,5407,False,10188.528389125207,10189,Öffentliche Hochschule,OH
+Kath. FH Mainz,6600,66,11939.149,False,1396,False,8552.398997134671,8552,Kirchliche Fachhochschule,KFH
+Hochschule für öffentliche Verwaltung Rheinland-Pfalz,6630,73,6302.029,False,946,True,6661.764270613108,6662,Verwaltungshochschule Länder,VHL
+"Edenkoben, Hochschule für Finanzen Rheinland-Pfalz ",6640,73,6158.246,False,629,False,9790.534181240064,9791,Verwaltungshochschule Länder,VHL
+"Hochschule der Polizei Rheinland-Pfalz (VerwFH), Büchenbeuren",8180,73,62887.669,False,1300,False,48375.13,48375,Verwaltungshochschule Länder,VHL
+Hochschule der Deutschen Bundesbank Hachenburg (VerwFH),6620,74,9779.267,False,353,False,27703.3059490085,27703,Verwaltungshochschule Bund,VHB
+U Freiburg i.Br. (ohne Klinikum),1240,13,450862.452,True,24135,False,18680.855686761963,18681,Öffentliche Universität,OU
+U Heidelberg (ohne Klinikum),1250,13,514649.146,True,28075,False,18331.22514692787,18331,Öffentliche Universität,OU
+U Konstanz,1260,13,263122.539,False,10063,False,26147.524495677233,26148,Öffentliche Universität,OU
+U Tübingen (ohne Klinikum),1270,13,500260.316,True,28258,False,17703.316441361738,17703,Öffentliche Universität,OU
+Karlsruher Institut für Technologie (KIT) - Bereich Hochschule,1580,13,549394.972,False,22007,False,24964.55545962648,24965,Öffentliche Universität,OU
+U Stuttgart,1590,13,689260.205,False,20620,False,33426.78006789525,33427,Öffentliche Universität,OU
+U Hohenheim,1800,13,200095.267,False,8427,False,23744.543372493175,23745,Öffentliche Universität,OU
+U Mannheim,1810,13,159544.98,False,11486,False,13890.38655754832,13890,Öffentliche Universität,OU
+U Ulm (ohne Klinikum),1820,13,210836.855,True,9814,False,21483.27440391278,21483,Öffentliche Universität,OU
+H für jüdische Studien Heidelberg,2300,16,3986.208,False,114,False,34966.73684210526,34967,Kirchliche Universität,KU
+PH Freiburg i.Br.,3660,33,52195.561,False,5125,False,10184.499707317073,10184,Pädagogische Hochschule,PH
+PH Heidelberg,3670,33,36335.791,False,5254,False,6915.833840883137,6916,Pädagogische Hochschule,PH
+PH Karlsruhe,3680,33,34393.126,False,3371,False,10202.647878967666,10203,Pädagogische Hochschule,PH
+PH Schwäbisch-Gmünd,3700,33,30317.667,False,2534,False,11964.351617995264,11964,Pädagogische Hochschule,PH
+PH Ludwigsburg,3710,33,49068.769,False,5833,True,8412.269672552717,8412,Pädagogische Hochschule,PH
+PH Weingarten,3780,33,24974.211,False,3190,False,7828.906269592477,7829,Pädagogische Hochschule,PH
+"Freiburg i.Br., Staatliche H für Musik ",2650,53,17012.076,False,631,False,26960.500792393028,26961,Öffentliche Kunsthochschule,OKH
+"Staatl. H für Musik und Darstellende Kunst, Mannheim",2660,53,14404.824,False,598,False,24088.334448160535,24088,Öffentliche Kunsthochschule,OKH
+"Staatl. H für Musik, Karlsruhe",2670,53,12873.261,False,545,False,23620.662385321102,23621,Öffentliche Kunsthochschule,OKH
+"Staatl. H für Musik und Darstellende Kunst, Stuttgart",2690,53,23721.107,False,804,False,29503.864427860695,29504,Öffentliche Kunsthochschule,OKH
+"Staatl. H für Musik, Trossingen",2700,53,11835.198,False,434,False,27270.04147465438,27270,Öffentliche Kunsthochschule,OKH
+"Staatl. H für Gestaltung, Karlsruhe",2940,53,8695.459,False,349,False,24915.3553008596,24915,Öffentliche Kunsthochschule,OKH
+"Staatl. Akademie der Bildenden Künste, Karlsruhe",2950,53,7155.913,False,360,False,19877.536111111112,19878,Öffentliche Kunsthochschule,OKH
+"Staatl. Akademie der Bildenden Künste, Stuttgart",2960,53,17910.619,False,784,False,22845.17729591837,22845,Öffentliche Kunsthochschule,OKH
+"Aalen, Hochschule für Technik und Wirtschaft (FH) ",6710,63,74293.204,False,4121,False,18027.95535064305,18028,Öffentliche Hochschule,OH
+FH Biberach a. d. Riss,6720,63,30682.767,False,2233,False,13740.603224361845,13741,Öffentliche Hochschule,OH
+H Esslingen (FH),6730,63,98191.169,False,4820,True,20371.61182572614,20372,Öffentliche Hochschule,OH
+FH Furtwangen,6740,63,68485.101,False,2518,True,27198.213264495633,27198,Öffentliche Hochschule,OH
+Hochschule Heilbronn,6750,63,76927.684,False,5133,True,14986.8856419248,14987,Öffentliche Hochschule,OH
+H für Technik und Wirtschaft Karlsruhe (FH),6760,63,76309.283,False,6946,False,10986.075871004894,10986,Öffentliche Hochschule,OH
+"H für Technik, Wirtschaft und Gestaltung Konstanz",6770,63,46747.085,False,4278,False,10927.322346891071,10927,Öffentliche Hochschule,OH
+H für Technik und Gestaltung Mannheim (FH),6780,63,59467.78,False,5073,False,11722.40883106643,11722,Öffentliche Hochschule,OH
+H für Wirtschaft und Gestaltung Nürtingen-Geislingen,6790,63,43770.361,False,3020,True,14493.49701986755,14493,Öffentliche Hochschule,OH
+H Offenburg,6800,63,48213.884,False,3656,False,13187.605032822757,13188,Öffentliche Hochschule,OH
+"H für Gestaltung, Technik und Wirtschaft Pforzheim",6810,63,50857.562,False,5574,False,9124.069250089702,9124,Öffentliche Hochschule,OH
+H Ravensburg-Weingarten,6820,63,29785.52,False,3497,False,8517.449242207607,8517,Öffentliche Hochschule,OH
+Hochschule / Reutlingen University Reutlingen,6830,63,79978.634,False,5017,False,15941.525612916086,15942,Öffentliche Hochschule,OH
+H für Technik und Wirtschaft Albstadt-Sigmaringen (FH),6840,63,28189.58,False,1392,True,20251.135057471263,20251,Öffentliche Hochschule,OH
+H für Technik Stuttgart,6850,63,43055.341,False,3984,False,10807.063504016065,10807,Öffentliche Hochschule,OH
+H der Medien Stuttgart,6860,63,46898.74,False,5393,False,8696.224735768588,8696,Öffentliche Hochschule,OH
+Technische Hochschule (FH) Ulm,6870,63,37043.923,False,2914,False,12712.39636238847,12712,Öffentliche Hochschule,OH
+FH für Gestaltung Schwäbisch Gmünd,7050,63,8298.594,False,660,False,12573.627272727272,12574,Öffentliche Hochschule,OH
+H für Forstwirtschaft Rottenburg (FH),7110,63,11221.89,False,898,False,12496.536748329621,12497,Öffentliche Hochschule,OH
+Evang. Hochschule Freiburg (FH),6900,66,5772.765,False,900,False,6414.183333333333,6414,Kirchliche Fachhochschule,KFH
+Kath. FH Freiburg i.Br.,6910,66,14283.117,False,1738,False,8218.13406214039,8218,Kirchliche Fachhochschule,KFH
+Evangelische Hochschule Ludwigsburg (FH),7190,66,12314.964,False,1167,False,10552.668380462725,10553,Kirchliche Fachhochschule,KFH
+Theologisches Seminar Reutlingen (evang. FH),7680,66,11717.376,False,99,False,118357.33333333333,118357,Kirchliche Fachhochschule,KFH
+H für öffentliche Verwaltung Kehl,7060,73,13638.449,False,1287,False,10597.08547008547,10597,Verwaltungshochschule Länder,VHL
+Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg,7070,73,20218.703,False,2593,False,7797.417277284998,7797,Verwaltungshochschule Länder,VHL
+H für Rechtspflege Schwetzingen,7120,73,3565.613,False,624,False,5714.1233974358975,5714,Verwaltungshochschule Länder,VHL
+H für Polizei Villingen-Schwenningen,7140,73,41436.004,False,2070,False,20017.393236714976,20017,Verwaltungshochschule Länder,VHL
+U Bamberg,0500,13,128499.123,False,10129,False,12686.259551782012,12686,Öffentliche Universität,OU
+U Bayreuth,0510,13,289989.844,False,11318,False,25622.004241031984,25622,Öffentliche Universität,OU
+U Passau,0540,13,120730.836,False,10683,False,11301.210895815782,11301,Öffentliche Universität,OU
+U Würzburg (ohne Klinikum),1330,13,474552.939,True,26024,False,18235.20361973563,18235,Öffentliche Universität,OU
+U Regensburg (ohne Klinikum),1340,13,366781.793,True,20202,False,18155.71690921691,18156,Öffentliche Universität,OU
+U Augsburg (ohne Klinikum),1350,13,282849.861,True,18788,False,15054.81482861401,15055,Öffentliche Universität,OU
+TU München (ohne Klinikum),1633,13,1334092.379,False,23067,False,57835.5390384532,57836,Öffentliche Universität,OU
+H für Politik München,1710,13,7791.345,False,585,False,13318.538461538461,13319,Öffentliche Universität,OU
+Technische Universität Nürnberg,3370,13,31149.194,False,62,False,502406.3548387097,502406,Öffentliche Universität,OU
+Kath. U Eichstätt-Ingolstadt,0550,16,82080.149,False,3936,True,20853.696392276423,20854,Kirchliche Universität,KU
+Augustana-H Neuendettelsau (ev),0560,46,3678.419,False,106,False,34702.06603773585,34702,Kirchliche Theologische Hochschule,KTH
+H für Philosophie München (rk),2170,46,4278.755,False,379,False,11289.591029023746,11290,Kirchliche Theologische Hochschule,KTH
+H für Musik Würzburg,2710,53,15821.371,False,576,False,27467.65798611111,27468,Öffentliche Kunsthochschule,OKH
+"H für Musik und Theater, München",2720,53,32651.536,False,1208,False,27029.417218543047,27029,Öffentliche Kunsthochschule,OKH
+"H für Fernsehen und Film, München",2730,53,13680.007,False,398,False,34371.87688442211,34372,Öffentliche Kunsthochschule,OKH
+"Akademie der Bildenden Künste, München",2980,53,12492.335,False,716,False,17447.395251396647,17447,Öffentliche Kunsthochschule,OKH
+"Akademie der Bildenden Künste, Nürnberg",2990,53,7428.504,False,302,False,24597.69536423841,24598,Öffentliche Kunsthochschule,OKH
+"H für Musik, Nürnberg",3010,53,13411.104,False,470,True,28534.263829787233,28534,Öffentliche Kunsthochschule,OKH
+"H für evang. Kirchenmusik, Bayreuth",3020,56,1795.826,False,24,False,74826.08333333333,74826,Kirchliche Kunsthochschule,KKH
+"H für Kath. Kirchenmusik und Musikpädagogik, Regensburg",3040,56,4088.404,False,132,False,30972.757575757576,30973,Kirchliche Kunsthochschule,KKH
+Technische Hochschule Augsburg (FH),7210,63,65747.543,False,7511,False,8753.50059912129,8754,Öffentliche Hochschule,OH
+Hochschule für angewandte Wissenschaften Coburg (FH),7220,63,52962.142,False,4648,False,11394.60886402754,11395,Öffentliche Hochschule,OH
+Hochschule für angewandte Wissenschaften München (FH),7240,63,151950.884,False,18535,False,8198.051470191529,8198,Öffentliche Hochschule,OH
+Technische Hochschule Nürnberg Georg Simon Ohm (FH),7250,63,131217.053,False,12547,False,10458.04200207221,10458,Öffentliche Hochschule,OH
+Ostbayerische Technische Hochschule Regensburg (FH),7260,63,100020.294,False,10999,False,9093.58068915356,9094,Öffentliche Hochschule,OH
+TH Rosenheim (FH),7300,63,76357.284,False,5787,False,13194.623120787974,13195,Öffentliche Hochschule,OH
+Hochschule für angewandte Wissenschaften Weihenstephan-Triesdorf (FH),7310,63,77261.266,False,3644,True,21202.323271130626,21202,Öffentliche Hochschule,OH
+FH Würzburg-Schweinfurt,7350,63,90824.552,False,5987,True,15170.29430432604,15170,Öffentliche Hochschule,OH
+Hochschule für angewandte Wissenschaften Kempten (FH),7440,63,66050.293,False,4643,False,14225.779237561923,14226,Öffentliche Hochschule,OH
+Hochschule für angewandte Wissenschaften Landshut (FH),7450,63,47278.246,False,4916,False,9617.218470301057,9617,Öffentliche Hochschule,OH
+TH Ingolstadt,7540,63,93253.707,False,7849,False,11880.966619951587,11881,Öffentliche Hochschule,OH
+Ostbayerische Technische Hochschule Amberg-Weiden,7550,63,51002.376,False,1570,True,32485.589808917197,32486,Öffentliche Hochschule,OH
+Hochschule für angewandte Wissenschaften Ansbach (FH),7560,63,33360.184,False,3485,False,9572.506169296987,9573,Öffentliche Hochschule,OH
+Hochschule für angewandte Wissenschaften Neu-Ulm (FH),7570,63,32631.22,False,4133,False,7895.286716670699,7895,Öffentliche Hochschule,OH
+TH Aschaffenburg (FH),7590,63,44781.814,False,3778,False,11853.312334568554,11853,Öffentliche Hochschule,OH
+Evang. Hochschule Nürnberg (FH),7370,66,10003.108,False,1239,False,8073.533494753834,8074,Kirchliche Fachhochschule,KFH
+Kath. Stiftungs FH München in München,7380,66,20132.059,False,1917,True,10501.856546687533,10502,Kirchliche Fachhochschule,KFH
+H für öffentl. Verwaltung und Rechtspflege Bayern,7460,73,60325.446,False,461,True,130857.80043383948,130858,Verwaltungshochschule Länder,VHL
+U der Bundeswehr München (FB Fachhochschulstudiengänge),0812,74,70111.338,False,1019,False,68804.06084396467,68804,Verwaltungshochschule Bund,VHB
+"U des Saarlandes, Saarbrücken",1360,13,418587.231,False,15684,False,26688.8058530987,26689,Öffentliche Universität,OU
+"Hochschule für Musik, Saarbrücken",2760,53,9240.334,False,487,False,18973.991786447637,18974,Öffentliche Kunsthochschule,OKH
+H der Bildenden Künste Saarbrücken,2770,53,6404.618,False,431,False,14859.902552204176,14860,Öffentliche Kunsthochschule,OKH
+H für Technik und Wirtschaft des Saarlandes Saarbrücken,7610,63,57587.797,False,6028,False,9553.383709356338,9553,Öffentliche Hochschule,OH
+FH für Verwaltung Saarbrücken,7630,73,2410.226,False,797,False,3024.1229611041404,3024,Verwaltungshochschule Länder,VHL
+Humboldt-Universität Berlin,0200,13,477727.044,True,35845,False,13327.578295438694,13328,Öffentliche Universität,OU
+FU Berlin,1380,13,533093.151,True,38397,False,13883.718806156729,13884,Öffentliche Universität,OU
+TU Berlin,1690,13,623523.342,False,34550,False,18046.98529667149,18047,Öffentliche Universität,OU
+Weißensee Kunsthochschule Berlin,2510,53,14296.92,False,834,False,17142.589928057554,17143,Öffentliche Kunsthochschule,OKH
+"H für Musik, Berlin",2520,53,17051.644,False,554,False,30779.140794223826,30779,Öffentliche Kunsthochschule,OKH
+"H für Schauspielkunst, Berlin",2540,53,11340.578,False,197,False,57566.38578680203,57566,Öffentliche Kunsthochschule,OKH
+"U der Künste, Berlin",2790,53,96069.718,False,4422,False,21725.399819086386,21725,Öffentliche Kunsthochschule,OKH
+FH für Technik und Wirtschaft Berlin,7690,63,107915.872,False,14956,False,7215.557100829099,7216,Öffentliche Hochschule,OH
+Berliner Hochschule für Technik (FH),7710,63,95578.357,False,12344,False,7742.8999513933895,7743,Öffentliche Hochschule,OH
+Alice-Salomon-Hochschule (FH) Berlin,7730,63,30882.871,False,4206,False,7342.575130765573,7343,Öffentliche Hochschule,OH
+Katholische Hochschule für Sozialwesen Berlin (FH),7700,66,13483.903,False,1263,False,10676.091053048298,10676,Kirchliche Fachhochschule,KFH
+Evangelische Hochschule Berlin (FH),7750,66,14864.868,False,1624,False,9153.243842364533,9153,Kirchliche Fachhochschule,KFH
+"H Bund, FB Sozialversicherung in Berlin",6202,74,17374.916,False,920,False,18885.778260869567,18886,Verwaltungshochschule Bund,VHB
+"H Bund, FB Akademie Auswärtige Angelegenheiten in Berlin",6205,74,3211.454,False,203,False,15819.970443349754,15820,Verwaltungshochschule Bund,VHB
+Europa-U Viadrina Frankfurt (Oder),0190,13,59169.94,False,3934,False,15040.65582104728,15041,Öffentliche Universität,OU
+Potsdam Filmuniversität Babelsberg,2550,13,31052.767,False,956,False,32481.973849372385,32482,Öffentliche Universität,OU
+U Potsdam,3500,13,295070.626,False,19696,False,14981.246242891957,14981,Öffentliche Universität,OU
+Brandenburgische TU Cottbus-Senftenberg,3970,13,203878.811,False,5957,True,34225.08158469028,34225,Öffentliche Universität,OU
+Technische Hochschule Brandenburg,7910,63,33465.287,False,3211,False,10422.076300218,10422,Öffentliche Hochschule,OH
+Hochschule für nachhaltige Entwicklung Eberswalde (FH),7920,63,39580.472,False,2280,False,17359.856140350876,17360,Öffentliche Hochschule,OH
+Technische Hochschule Wildau (FH),7940,63,48342.677,False,3314,False,14587.41007845504,14587,Öffentliche Hochschule,OH
+FH Potsdam,7950,63,40934.956,False,3610,False,11339.32299168975,11339,Öffentliche Hochschule,OH
+Theologische Hochschule Elstal (FH),6430,66,1265.88,False,38,False,33312.63157894737,33313,Kirchliche Fachhochschule,KFH
+FH für Finanzen Brandenburg (VerwFH) Königs Wusterhausen,7850,73,8157.015,False,843,False,9676.174377224199,9676,Verwaltungshochschule Länder,VHL
+FH der Polizei des Landes Brandenburg (VerwFH) in Oranienburg,7890,73,63670.105,False,694,False,91743.66714697407,91744,Verwaltungshochschule Länder,VHL
+U Rostock (ohne Klinikum),0260,13,229754.45,True,12815,False,17928.556379243073,17929,Öffentliche Universität,OU
+U Greifswald (ohne Klinikum),0270,13,140694.114,True,9868,False,14257.61187677341,14258,Öffentliche Universität,OU
+"H für Musik und Theater, Rostock",3030,53,16833.414,False,579,False,29073.253886010363,29073,Öffentliche Kunsthochschule,OKH
+H Neubrandenburg,7780,63,29057.444,False,1832,False,15861.050218340612,15861,Öffentliche Hochschule,OH
+H Stralsund,7790,63,30766.535,False,1770,False,17382.22316384181,17382,Öffentliche Hochschule,OH
+H Wismar,7840,63,53111.678,False,7262,False,7313.643348939686,7314,Öffentliche Hochschule,OH
+Verwaltungs-FH Güstrow,7900,73,19846.395,False,551,False,36018.86569872958,36019,Verwaltungshochschule Länder,VHL
+U Leipzig (ohne Klinikum),0360,13,642351.284,True,30528,False,21041.38115828092,21041,Öffentliche Universität,OU
+TU Dresden (ohne Klinikum),0370,13,768290.206,True,26652,False,28826.73743058682,28827,Öffentliche Universität,OU
+TU Chemnitz,0380,13,244411.881,False,8095,False,30192.94391599753,30193,Öffentliche Universität,OU
+"TU Bergakademie, Freiberg",0390,13,171260.514,False,4383,False,39073.81108829569,39074,Öffentliche Universität,OU
+Palucca Hochschule für Tanz Dresden,2490,53,6330.481,False,170,False,37238.123529411765,37238,Öffentliche Kunsthochschule,OKH
+H für Bildende Künste Dresden,2630,53,14336.597,False,594,False,24135.685185185186,24136,Öffentliche Kunsthochschule,OKH
+H für Graphik und Buchkunst Leipzig,2640,53,9941.145,False,542,False,18341.59594095941,18342,Öffentliche Kunsthochschule,OKH
+H für Musik und Theater Leipzig,2740,53,23800.126,False,1166,False,20411.771869639793,20412,Öffentliche Kunsthochschule,OKH
+H für Musik Dresden,2800,53,16118.378,False,705,False,22862.947517730496,22863,Öffentliche Kunsthochschule,OKH
+"H für Kirchenmusik der Evang.-Luth. Landeskirche Sachsens, Dresden",2930,56,1451.825,False,22,False,65992.04545454546,65992,Kirchliche Kunsthochschule,KKH
+H für Technik und Wirtschaft Dresden,5120,63,73423.601,False,4640,False,15824.051939655172,15824,Öffentliche Hochschule,OH
+"H für Technik, Wirtschaft und Kultur Leipzig",5130,63,66766.55,False,6431,False,10381.985694293267,10382,Öffentliche Hochschule,OH
+H Mittweida (University of Applied Sciences),5140,63,59778.556,False,6115,False,9775.724611610793,9776,Öffentliche Hochschule,OH
+H für angewandte Wissenschaften Zittau/Görlitz (FH),5150,63,47551.046,False,1074,True,44274.716945996275,44275,Öffentliche Hochschule,OH
+Westsächsische H Zwickau,5160,63,76742.747,False,2827,True,27146.355500530597,27146,Öffentliche Hochschule,OH
+Evangelische Hochschule Dresden (Kirchl. FH),5110,66,8355.854,False,771,False,10837.683527885862,10838,Kirchliche Fachhochschule,KFH
+"H der Sächsischen Polizei, Rothenburg/OL. (FH)",5190,73,69741.772,False,476,False,146516.32773109243,146516,Verwaltungshochschule Länder,VHL
+H Meißen und Fortbildungszentrum (VerwFH),6380,73,19007.219,False,1156,False,16442.23096885813,16442,Verwaltungshochschule Länder,VHL
+U Halle (ohne Klinikum),0300,13,262064.36,True,18727,True,13993.931756287713,13994,Öffentliche Universität,OU
+U Magdeburg (ohne Klinikum),0310,13,214697.522,True,12605,False,17032.726854422846,17033,Öffentliche Universität,OU
+"Theol. H (Adventisten), Friedensau",2350,46,6977.226,False,194,False,35965.0824742268,35965,Kirchliche Theologische Hochschule,KTH
+"Burg Giebichenstein Kunsthochschule, Halle",2600,53,25201.772,False,1249,False,20177.559647718175,20178,Öffentliche Kunsthochschule,OKH
+Evang. H für Kirchenmusik Halle,3000,56,1496.523,False,52,False,28779.28846153846,28779,Kirchliche Kunsthochschule,KKH
+H Merseburg (FH),8000,63,37317.874,False,3054,False,12219.343156516044,12219,Öffentliche Hochschule,OH
+H Magdeburg-Stendal (FH),8010,63,56869.693,False,3690,True,15411.840921409213,15412,Öffentliche Hochschule,OH
+H Harz (FH),8020,63,30896.11,False,2135,True,14471.245901639344,14471,Öffentliche Hochschule,OH
+H Anhalt (FH),8030,63,76956.341,False,2797,True,27513.88666428316,27514,Öffentliche Hochschule,OH
+"FH Polizei Sachsen-Anhalt, Aschersleben",8060,73,17319.289,False,615,False,28161.445528455286,28161,Verwaltungshochschule Länder,VHL
+U Jena (ohne Klinikum),0490,13,411926.781,True,16069,False,25634.87342087249,25635,Öffentliche Universität,OU
+Bauhaus-U Weimar,0580,13,91402.334,False,3821,False,23921.05051033761,23921,Öffentliche Universität,OU
+TU Ilmenau,0590,13,133700.153,False,4134,False,32341.594823415573,32342,Öffentliche Universität,OU
+U Erfurt,0620,13,72202.799,False,5477,False,13182.910169800985,13183,Öffentliche Universität,OU
+H für Musik Weimar,2850,53,21568.616,False,755,False,28567.70331125828,28568,Öffentliche Kunsthochschule,OKH
+Duale Hochschule Gera-Eisenach,3240,63,15782.018,False,507,True,31128.24063116371,31128,Öffentliche Hochschule,OH
+FH Erfurt,7810,63,46867.857,False,4000,False,11716.96425,11717,Öffentliche Hochschule,OH
+Ernst-Abbe-Hochschule Jena (FH),7820,63,52742.045,False,4052,False,13016.29935834156,13016,Öffentliche Hochschule,OH
+Hochschule Schmalkalden,7830,63,26698.544,False,2933,False,9102.810773951585,9103,Öffentliche Hochschule,OH
+Hochschule Nordhausen ,7880,63,25210.564,False,1753,False,14381.382772390189,14381,Öffentliche Hochschule,OH
+Thüringer FH für öffentliche Verwaltung Gotha,7860,73,7897.181,False,659,False,11983.582701062216,11984,Verwaltungshochschule Länder,VHL

@@ -22,7 +22,8 @@ Papa.parse("{{ include.src | relative_url }}", {
       data: results.data,
       columns: fields.map(function (f) { return { title: f, data: f }; }),
       pageLength: {{ include.page_length | default: 25 }},
-      order: []
+      order: [],
+      scrollX: true,
     });
   }
 });
